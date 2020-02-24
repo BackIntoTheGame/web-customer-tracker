@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp.jstl-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaSpringTutorial/spring-hibernate-source-code-v27/spring-hibernate-source-code-v27/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
