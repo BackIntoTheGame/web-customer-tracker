@@ -39,5 +39,6 @@
     <orderEntry type="library" name="mysql-connector-java-8.0.12" level="project" />
     <orderEntry type="library" name="javax.servlet.jsp.jstl-api-1.2.1" level="project" />
     <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.1" level="project" />
+    <orderEntry type="library" name="aspectjweaver-1.9.5" level="project" />
   </component>
 </module>

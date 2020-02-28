@@ -16,6 +16,7 @@
           <element id="library" level="project" name="mysql-connector-java-8.0.12" />
           <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
           <element id="library" level="project" name="javax.servlet.jsp.jstl-api-1.2.1" />
+          <element id="library" level="project" name="aspectjweaver-1.9.5" />
         </element>
       </element>
     </root>
